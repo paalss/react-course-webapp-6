@@ -4,7 +4,7 @@ Optimization Techniques*
 
 ![webapp](public/app-2021-05-05-095051.png)
 
-````
+```
 npm install
 npm start
 ```
